@@ -1,0 +1,6 @@
+com/xy/lr/java/spider/SpiderConfiguration.class
+com/xy/lr/java/flume/sink/ConsoleSink.class
+com/xy/lr/java/App.class
+com/xy/lr/java/hbase/HBaseTest.class
+com/xy/lr/java/spider/SpiderXMLParser.class
+com/xy/lr/java/spider/entity/SpiderBasicInformation.class
